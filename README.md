@@ -1,6 +1,6 @@
 ![alt text](https://github.com/g-vvv/SAF-T/blob/main/saft.png?raw=true)
 
-# SAF-T schema based on nra.bg
+# SAF-T - Bulgarian version of the schema based on nra.bg
 Standard Audit File for Tax - C#, GO schemes based on xsd definitions by nra.bg
 
 Quote:
