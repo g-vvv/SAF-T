@@ -18,3 +18,6 @@ https://github.com/nav-gov-hu/SAF-T_HU
 https://github.com/Skatteetaten/saf-t
 https://github.com/dodoas/ruby-saft
 
+*Portugal SAF-T Repos:*
+https://github.com/ruialexrib/Programatica.Saft.Models
+
