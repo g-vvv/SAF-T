@@ -8,17 +8,43 @@ Quote:
 
 # Useful links
 
-*Bulgarian SAF-T Links:*
+*Bulgarian SAF-T:*
 - https://nra.bg/wps/portal/nra/za-nap/proekti/sistema-za-schetovodno-otchitane/sistema-za-schetovodno-otchitane
 
-*Hungarian SAF-T Repos:*
+*Hungarian SAF-T:*
 - https://github.com/nav-gov-hu/SAF-T_HU
 
-*Norvegian SAF-T Links and Repos:*
+*Norway SAF-T:*
 - https://www.skatteetaten.no/en/business-and-organisation/start-and-run/best-practices-accounting-and-cash-register-systems/saf-t-financial/documentation/
 - https://github.com/Skatteetaten/saf-t
 - https://github.com/dodoas/ruby-saft
 
-*Portugal SAF-T Repos:*
+*Portugal SAF-T:*
 - https://github.com/ruialexrib/Programatica.Saft.Models
 
+*France FEC Links:*
+- https://www.legifrance.gouv.fr/loda/id/JORFTEXT000027788276
+
+*Germany e-Bilanz Links:*
+- https://www.esteuer.de/
+
+*Luxembourg FAIA:*
+- https://pfi.public.lu/fr/professionnel/tva/faia.html
+
+*Poland JPK VDEK:*
+- https://www.podatki.gov.pl/jednolity-plik-kontrolny/
+
+*SAF-T Austria:*
+- https://www.erechnung.gv.at/erb
+
+*SAF-T Lithuania:*
+- https://www.taxcube.lt/en/paslaugos/saf-t-ir-i-mas-paslaugos/
+
+*Turkey e-Ledger:*
+- https://edefter.gov.tr/anasayfa.html
+
+*UK Making Tax Digital:*
+- https://www.gov.uk/government/publications/making-tax-digital
+
+*SAF-T Romania:*
+- https://www.anaf.ro/anaf/internet/ANAF/despre_anaf/strategii_anaf/proiecte_digitalizare/saf_t/?ref=storecove.com
