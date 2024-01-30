@@ -1,5 +1,5 @@
 
-namespace BG.NRA.SAFT.Sheme
+namespace BG.NRA.SAFT.Shema
 {
     using System.Collections;
     using System.Collections.Generic;
