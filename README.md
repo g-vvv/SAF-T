@@ -22,6 +22,7 @@ Quote:
 
 *Portugal SAF-T:*
 - https://github.com/ruialexrib/Programatica.Saft.Models
+- https://github.com/ruialexrib/SAFTReader.PT
 - https://github.com/antonioalmeida/saft-api
 
 *France FEC Links:*
