@@ -18,9 +18,11 @@ Quote:
 - https://www.skatteetaten.no/en/business-and-organisation/start-and-run/best-practices-accounting-and-cash-register-systems/saf-t-financial/documentation/
 - https://github.com/Skatteetaten/saf-t
 - https://github.com/dodoas/ruby-saft
+- https://github.com/LasseSkogland/SAF-T.NET
 
 *Portugal SAF-T:*
 - https://github.com/ruialexrib/Programatica.Saft.Models
+- https://github.com/antonioalmeida/saft-api
 
 *France FEC Links:*
 - https://www.legifrance.gouv.fr/loda/id/JORFTEXT000027788276
