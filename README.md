@@ -8,13 +8,14 @@ Quote:
 
 # Useful links
 
-*Bulgarian SAF-T nra.bg definition:*
+*Bulgarian SAF-T Links:*
 - https://nra.bg/wps/portal/nra/za-nap/proekti/sistema-za-schetovodno-otchitane/sistema-za-schetovodno-otchitane
 
 *Hungarian SAF-T Repos:*
 - https://github.com/nav-gov-hu/SAF-T_HU
 
-*Norvegian SAF-T Repos:*
+*Norvegian SAF-T Links and Repos:*
+- https://www.skatteetaten.no/en/business-and-organisation/start-and-run/best-practices-accounting-and-cash-register-systems/saf-t-financial/documentation/
 - https://github.com/Skatteetaten/saf-t
 - https://github.com/dodoas/ruby-saft
 
