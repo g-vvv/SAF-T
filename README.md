@@ -1,7 +1,7 @@
 ![alt text](https://github.com/g-vvv/SAF-T/blob/main/saft-nb.png?raw=true)
 
 # SAF-T - Bulgarian version of the schema based on nra.bg
-Standard Audit File for Tax - C#, GO schemes based on xsd definitions by nra.bg
+Standard Audit File for Tax - Multiple languages schema definition files, i.e. C#, GO, Java, Rust, C schemes based on xsd definitions by nra.bg
 
 Quote:
 - The National Revenue Agency and Ernst & Young Bulgaria are implementing a project to implement the international SAF-T standard. Within the framework of the project, the conditions for collecting data in a unified format based on SAF-T are being studied and prepared for implementation. The upcoming introduction of SAF-T in Bulgaria will speed up the overall digitalization process in the provision of administrative services, specifically improving the interaction between the tax administration and business.
