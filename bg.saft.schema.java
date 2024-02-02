@@ -1,4 +1,4 @@
-package schema;
+package bg.saft.schema;
 
 import java.util.ArrayList;
 import java.util.List;
