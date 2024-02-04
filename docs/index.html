@@ -6193,7 +6193,8 @@ This is the unique number issued by NRA for use by the company.</xs:documentatio
     var parser = new DOMParser();
 
     try {
-      xmlDoc = parser.parseFromString(textarea.value, "text/xml");
+      var content = textarea.value.trim();
+      xmlDoc = parser.parseFromString(content, "text/xml");
     } catch (e) {
       // if text is not well-formed, 
       statusText.innerHTML = "Not a valid xml document";
