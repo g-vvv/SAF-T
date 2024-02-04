@@ -6,6 +6,8 @@ Standard Audit File for Tax - Multiple languages schema definition files, i.e. C
 Quote:
 - The National Revenue Agency and Ernst & Young Bulgaria are implementing a project to implement the international SAF-T standard. Within the framework of the project, the conditions for collecting data in a unified format based on SAF-T are being studied and prepared for implementation. The upcoming introduction of SAF-T in Bulgaria will speed up the overall digitalization process in the provision of administrative services, specifically improving the interaction between the tax administration and business.
 
+# [See a visualisation of BG_SAFT_Schema_01-11-2023.xsd here...](https://g-vvv.github.io/SAF-T/)
+
 # Useful links
 
 *Bulgarian SAF-T:*
