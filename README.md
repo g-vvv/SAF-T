@@ -11,7 +11,7 @@ Quote:
 # Useful links
 
 *Bulgarian SAF-T:*
-- https://nra.bg/wps/portal/nra/za-nap/proekti/sistema-za-schetovodno-otchitane/sistema-za-schetovodno-otchitane
+- https://nra.bg/wps/portal/nra/proekti/sistema-za-schetovodno-otchitane/sistema-za-schetovodno-otchitane
 
 *Hungarian SAF-T:*
 - https://github.com/nav-gov-hu/SAF-T_HU
